@@ -318,7 +318,7 @@ export function SimpsonCalculator() {
                   </div>
                 </div>
 
-                <div className="max-h-100 overflow-y-auto border rounded-md">
+                <div className="max-h-200 overflow-y-auto border rounded-md">
                   {calculationSteps.map((step, index) => (
                     <div
                       key={index}
